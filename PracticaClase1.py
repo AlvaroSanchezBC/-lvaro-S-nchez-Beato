@@ -17,6 +17,7 @@ if __name__ == "__main__":
         numero2 = int(input('Dame un numero entero'))
         resultado = my_division(numero1, numero2)
         print(resultado)
+        #
         
         
         
